@@ -46,9 +46,9 @@ Running a Minecraft public server with custom features
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=TypeThe0ry&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=TypeThe0ry&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hahaTT0902&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=TypeThe0ry&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hahaTT0902&theme=default&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=TypeThe0ry&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 
