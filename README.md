@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-## Hi, I'm TT
+## Hi, I'm TypeTheory
 
 ###  Work in Progress Projects
 
@@ -20,7 +20,7 @@ Running a Minecraft public server with custom features
 
 ---
 
-##  你好，我是 TT
+##  你好，我是 TypeTheory
 
 
 ### 最近项目
