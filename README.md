@@ -1,1 +1,1 @@
-![](https://github-readme-stats.shion.dev/api?username=TypeThe0ry&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>![](https://streak-stats.demolab.com/?user=TypeThe0ry&theme=default&hide_border=true)<br/>![](https://github-readme-stats.shion.dev/api/top-langs/?username=TypeThe0ry&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=TypeThe0ry&theme=default&hide_border=true&include_all_commits=true&count_private=true)
