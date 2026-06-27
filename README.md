@@ -27,9 +27,6 @@ const TypeThe0ry = {
 };
 ```
 
-<table>
-<tr>
-<td width="55%">
 
 ### 🚀 Current Status
 
@@ -38,14 +35,6 @@ const TypeThe0ry = {
 - 🤝 Open to interesting ideas, collaboration, and feedback
 - 🌱 Keeping the stack modern, practical, and enjoyable
 
-</td>
-<td width="45%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TypeThe0ry&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&custom_title=Dynamic%20GitHub%20Status" alt="GitHub stats" />
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -63,23 +52,7 @@ const TypeThe0ry = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TypeThe0ry&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats card" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TypeThe0ry&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
 
-<br />
-<br />
-
-<img src="https://streak-stats.demolab.com?user=TypeThe0ry&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub streak" />
-
-<br />
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=TypeThe0ry&theme=radical&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" alt="GitHub trophies" />
-
-<br />
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TypeThe0ry&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 
 </div>
 
