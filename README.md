@@ -10,14 +10,12 @@
 
 ## ✨ About Me
 
-<!-- Compact conflict-resolved profile layout; keep wide media at 100% to avoid GitHub edge overflow. -->
-
 ```ts
 const TypeThe0ry = {
   role: "Developer / Builder / Lifelong learner",
   focus: ["Full-stack craft", "Automation", "AI tooling", "Developer experience"],
   values: ["Clean architecture", "Delightful UI", "Fast feedback", "Useful products"],
-  status: "Designing, coding, iterating — one commit at a time",
+  status: "Designing, coding, iterating - one commit at a time",
 };
 ```
 
