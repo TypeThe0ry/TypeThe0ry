@@ -27,12 +27,14 @@ const TypeThe0ry = {
 };
 ```
 
+
 ### 🚀 Current Status
 
 - 🧠 Learning by building and documenting along the way
 - 🛠️ Polishing projects with better UI, motion, and reliability
 - 🤝 Open to interesting ideas, collaboration, and feedback
 - 🌱 Keeping the stack modern, practical, and enjoyable
+
 
 ---
 
@@ -50,7 +52,7 @@ const TypeThe0ry = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TypeThe0ry&theme=radical" alt="GitHub profile summary card" />
+
 
 </div>
 
