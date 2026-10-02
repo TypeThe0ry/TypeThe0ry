@@ -13,7 +13,7 @@
 ```ts
 const TypeThe0ry = {
   role: "Developer / Builder / Lifelong learner",
-  focus: ["Full-stack craft", "Automation", "AI tooling", "Developer experience"],
+  focus: ["Full-stack craft", "VIBECODER", "AI tooling", "Developer experience"],
   values: ["Clean architecture", "Delightful UI", "Fast feedback", "Useful products"],
   status: "Designing, coding, iterating - one commit at a time",
 };
