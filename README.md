@@ -19,21 +19,6 @@ const TypeThe0ry = {
 };
 ```
 
-> I like turning practical ideas into polished products: clear structure, smooth interaction, fast iteration, and visible progress.
-
-## 🚀 Current Status
-
-- 🧠 Learning by building and documenting along the way
-- 🛠️ Polishing projects with better UI, motion, and reliability
-- 🤝 Open to interesting ideas, collaboration, and feedback
-- 🌱 Keeping the stack modern, practical, and enjoyable
-
-## 🧰 Tech Toolbox
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,go,rust,html,css,tailwind,vite,linux,docker,git,github,vscode&perline=9" alt="Tech stack icons" />
-</div>
-
 ## 📊 Live Metrics
 
 <div align="center">
