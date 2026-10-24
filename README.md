@@ -25,30 +25,6 @@ const TypeThe0ry = {
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TypeThe0ry&theme=radical" alt="GitHub profile summary card" />
 </div>
 
-## 🎯 Principles
-
-<table>
-  <tr>
-    <td width="50%"><b>🎨 Beauty</b><br />Interfaces should feel calm, intentional, and enjoyable.</td>
-    <td width="50%"><b>⚡ Speed</b><br />Fast feedback loops make better products and happier builders.</td>
-  </tr>
-  <tr>
-    <td width="50%"><b>🧩 Clarity</b><br />Readable systems beat clever systems when projects grow.</td>
-    <td width="50%"><b>🛰️ Status</b><br />Dynamic signals make progress visible and motivating.</td>
-  </tr>
-</table>
-
-## 🗺️ Workflow
-
-```mermaid
-graph LR
-  A[Idea] --> B[Prototype]
-  B --> C[Polish]
-  C --> D[Test]
-  D --> E[Ship]
-  E --> F[Learn]
-  F --> A
-```
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&color=0:F472B6,50:8B5CF6,100:06B6D4" alt="Footer wave" />
