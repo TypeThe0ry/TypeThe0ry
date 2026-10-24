@@ -7,9 +7,6 @@
   </p>
   <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+TypeThe0ry+%F0%9F%91%8B;Full-stack+craft+%C2%B7+AI+tooling+%C2%B7+Automation;Polishing+the+last+1%25+matters" alt="Typing introduction" />
 </div>
-
-## ✨ About Me
-
 ```ts
 const TypeThe0ry = {
   role: "Developer / Builder / Lifelong learner",
@@ -18,13 +15,9 @@ const TypeThe0ry = {
   status: "Designing, coding, iterating - one commit at a time",
 };
 ```
-
-## 📊 Live Metrics
-
 <div align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TypeThe0ry&theme=radical" alt="GitHub profile summary card" />
 </div>
-
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&color=0:F472B6,50:8B5CF6,100:06B6D4" alt="Footer wave" />
