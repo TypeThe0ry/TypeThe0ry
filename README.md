@@ -7,6 +7,7 @@
   </p>
   <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+TypeThe0ry+%F0%9F%91%8B;Full-stack+craft+%C2%B7+AI+tooling+%C2%B7+Automation;Polishing+the+last+1%25+matters" alt="Typing introduction" />
 </div>
+
 ```ts
 const TypeThe0ry = {
   role: "Developer / Builder / Lifelong learner",
@@ -15,6 +16,7 @@ const TypeThe0ry = {
   status: "Designing, coding, iterating - one commit at a time",
 };
 ```
+
 <div align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TypeThe0ry&theme=radical" alt="GitHub profile summary card" />
 </div>
